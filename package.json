@@ -1,0 +1,12 @@
+{
+  "name": "djkloop-cli-template",
+  "version": "1.0.0",
+  "description": "djkloop-cli-template",
+  "main": "index.js",
+  "scripts": {
+      "start": "node src/index.js"
+  },
+  "repository": "git@github.com:djkloop/djkloop-cli-template.git",
+  "author": "djkloop <1044032256@qq.com>",
+  "license": "MIT"
+}
